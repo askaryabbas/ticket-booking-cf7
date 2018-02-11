@@ -1,32 +1,48 @@
-=== icket Booking CF7 add-on ===
-Contributors: askaryabbas
-Donate link: http://askaryabbas.com
-Tags: contact form, cf7,ticket, contact form ticket booking
-Requires at least: 3.0.1
-Tested up to: 4.9.2
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Ticket Booking contact form 7 add-on
 
 This plugin will generate shortcode [ticket_book_cf7] for booking system in your contact form.
 
-== Description ==
+## Getting Started
 
-= This plugin will generate shortcode [ticket_book_cf7] for booking system in your contact form. =
+Install Contact Form 7 plugin.
+If required plugin not installed then ```Ticket Booking CF7 add-on``` will ineffective.
 
-== Installation ==
 
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Nothing
+```
+
+### Installing
+
+A step by step instructions for installing this plugin.
+
+Say what the step will be
+
+```
 1. Download the zip file and extract it.
 2. Upload this plugin to the `/wp-content/plugins/` directory
 3. Activate the plugin through the \'Plugins\' menu.
-4. Alternatively you can use WordPress Plugin installer from Dashboard->Plugins->Add New to add this plugin
-5. Enjoy
+4. Alternatively you can use WordPress Plugin installer from Dashboard->Plugins->Add New to add this plugin.
+```
 
-== Frequently Asked Questions ==
+## Using shortcode
 
-= Does This plugin requires any other plugin =
-Yes, This plugin will require Contact Form 7 plugin to work.
+Add shortcode [ticket_book_cf7] into Contact Form this will add booking field in contact form.
 
-== Changelog ==
-= 1.0.0 =
-* first version.
+## Authors
+
+* **Askary Abbas** - *Initial work* - [ticket-booking-cf7](https://github.com/askaryabbas/ticket-booking-cf7/)
+
+## License
+
+This project is licensed under the gpl 2.0 License - see the [license.txt](license.txt) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
