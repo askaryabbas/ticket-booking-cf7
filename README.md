@@ -13,7 +13,7 @@ If required plugin not installed then ```Ticket Booking CF7 add-on``` will ineff
 What things you need to install the software and how to install them
 
 ```
-Nothing
+Need Contact Form 7 plugin.
 ```
 
 ### Installing
